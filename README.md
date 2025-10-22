@@ -15,7 +15,7 @@ Train in the use of network traffic analysis tools such as Wireshark to identify
 
 ## Tools Used
 
-- **Wireshark** – for graphical inspection and in-depth network analysis (`https://www.wireshark.org/`)
+- **Wireshark** – for graphical inspection and in-depth network analysis ([Wireshark official website](https://www.wireshark.org))
 
 ---
 
