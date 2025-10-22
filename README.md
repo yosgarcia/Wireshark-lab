@@ -94,17 +94,17 @@ The `dig` (Domain Information Groper) command is a DNS lookup utility used to qu
 
 The DNS capture shows a standard query and response exchange between the client and its configured DNS resolver. The client (`192.168.100.7`) sends a DNS query to the resolver (`192.168.100.1`) over UDP port 53, requesting an A record for the domain `example.com`.
 
-> ![HTTPS Capture](./images/dns_image_1.png)
+> ![DNS Capture](./images/dns_image_1.png)
 
 In the response, the resolver returns multiple A records, each containing an IPv4 address associated with the queried domain.
 
-> ![HTTPS Capture](./images/dns_image_2.png)
+> ![DNS Capture](./images/dns_image_2.png)
 
 This confirms that the DNS resolution process successfully maps the domain name to its corresponding IP addresses.
 
 A similar test using `dig MX estudiantec.cr` shows how `dig` can request different record types, in this case, MX records (Mail Exchange) that specify the mail servers responsible for handling emails for that domain.
 
-> ![HTTPS Capture](./images/dns_image_3.png)
+> ![DNS Capture](./images/dns_image_3.png)
 
 #### Where dows the resolution occur?
 
