@@ -1,8 +1,5 @@
 <h1 align="center">🌐 Network Traffic Analysis with Wireshark: Protocols and Security</h1>
 
-<p align="center">
-  <b>Analyzing network protocols, traffic behavior, and security using Wireshark</b>
-</p>
 
 ## Overview
 
