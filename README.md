@@ -1,4 +1,8 @@
-# Network Traffic Analysis with Wireshark: Protocols and Security
+<h1 align="center">🌐 Network Traffic Analysis with Wireshark: Protocols and Security</h1>
+
+<p align="center">
+  <b>Analyzing network protocols, traffic behavior, and security using Wireshark</b>
+</p>
 
 ## Overview
 
@@ -14,7 +18,7 @@ Train in the use of network traffic analysis tools such as Wireshark to identify
 
 ## Tools Used
 
-- **Wireshark** – for graphical inspection and in-depth network analysis
+- **Wireshark** – for graphical inspection and in-depth network analysis (`https://www.wireshark.org/`)
 
 ---
 
