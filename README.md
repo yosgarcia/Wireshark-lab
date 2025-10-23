@@ -246,6 +246,7 @@ By analyzing ICMP traffic in Wireshark, network administrators can quickly asses
 ### 7. SSH
 
 **Server Used:** `test.rebex.net`
+
 **Command Executed:** `ssh demo@test.rebex.net`
 
 #### Analysis
