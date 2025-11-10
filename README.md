@@ -129,7 +129,7 @@ A similar test using `dig MX estudiantec.cr` shows how `dig` can request differe
 
 #### Where dows the resolution occur?
 
-The DNS resolution is handled by the local resolver at IP address `192.168.100.1`, whic in this setup corresponds to the default gateway (home router). From the client’s perspective, this device provides the DNS answers.
+The DNS resolution is handled by the local resolver at IP address `192.168.100.1`, which in this setup corresponds to the default gateway (home router). From the client’s perspective, this device provides the DNS answers.
 However, in most cases, the router forwards the queries to external DNS servers (e.g., from the ISP or public providers like Google DNS or Cloudflare).
 This forwarding process is not visible in Wireshark because only the packets entering and leaving the client machine were captured.
 
